@@ -1,9 +1,12 @@
-#root, html, body{
+#root, html, body {
     height: 100vh;
 }
 
-body{
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap');
+
+body {
     margin: 0;
+    font-family: 'Yatra One', cursive;
     background-color: whitesmoke;
 }
 
